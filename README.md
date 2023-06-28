@@ -22,8 +22,16 @@ To reproduce the results and run the machine learning classifier, follow these s
 
 - Clone the project repository from GitHub.
 ```bash
+git clone https://github.com/DavidIkechi/machine_learning.git
 ```
 - Install the required dependencies and libraries specified such as seaborn, matplotlib, numpy, scikit-learn, and pandas.
+```bash
+pip install seaborn
+pip install matplotlib
+pip install numpy
+pip install scikit-learn
+pip install pandas
+```
 - run the main.py file using
   ```bash
   python main.py
